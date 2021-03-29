@@ -4,6 +4,7 @@ a
 a
 a
 feature-a a
+feature-a aa
 b
 master a
 master aa
