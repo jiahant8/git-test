@@ -3,6 +3,7 @@ a note
 a
 a
 a
+feature-a a
 b
 master a
 master aa
